@@ -2,4 +2,4 @@
 
 Hi humans!
 
-I like coding and I want to change world.
+I like coding and I want to change the world.
